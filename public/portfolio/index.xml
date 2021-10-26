@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on LUCE | UCM</title>
+    <link>http://example.org/portfolio/</link>
+    <description>Recent content in We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on LUCE | UCM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-Es</language>
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LUCE-DAO</title>
+      <link>http://example.org/portfolio/luce-dao/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/portfolio/luce-dao/</guid>
+      <description>Como parte de la DAO universitaria, se implementará una aplicación descentralizada (dapp) que capturará los datos de las actividades extracurriculares que los estudiantes llevan a cabo en la comunidad universitaria, por ejemplo, en asociaciones deportivas o estudiantiles, mentorías y delegación de estudiantes.</description>
+    </item>
+    
+    <item>
+      <title>LUCE-Analysis</title>
+      <link>http://example.org/portfolio/luce-analysis/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/portfolio/luce-analysis/</guid>
+      <description>O2: Creación de una funcionalidad, integrada en la herramienta LUCE-Analysis, para el análisis de datos. A partir de los datos almacenados por LUCE-DAO, LUCE-Analysis será capaz de establecer un conjunto de procedimientos con los que poder crear perfiles de estudiantes y de actividades asociadas a la participación en la vida universitaria.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LUCE | UCM</title>
+    <link>http://example.org/</link>
+    <description>Recent content on LUCE | UCM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-Es</language>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LUCE-DAO</title>
+      <link>http://example.org/portfolio/luce-dao/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/portfolio/luce-dao/</guid>
+      <description>Como parte de la DAO universitaria, se implementará una aplicación descentralizada (dapp) que capturará los datos de las actividades extracurriculares que los estudiantes llevan a cabo en la comunidad universitaria, por ejemplo, en asociaciones deportivas o estudiantiles, mentorías y delegación de estudiantes.</description>
+    </item>
+    
+    <item>
+      <title>LUCE-Analysis</title>
+      <link>http://example.org/portfolio/luce-analysis/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/portfolio/luce-analysis/</guid>
+      <description>O2: Creación de una funcionalidad, integrada en la herramienta LUCE-Analysis, para el análisis de datos. A partir de los datos almacenados por LUCE-DAO, LUCE-Analysis será capaz de establecer un conjunto de procedimientos con los que poder crear perfiles de estudiantes y de actividades asociadas a la participación en la vida universitaria.</description>
+    </item>
+    
+    <item>
+      <title>Design Inspiration: The Best Projects From December</title>
+      <link>http://example.org/blog/design-inspiration-the-best-projects-from-december/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>http://example.org/blog/design-inspiration-the-best-projects-from-december/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+    </item>
+    
+    <item>
+      <title>The 10 Biggest Rebrands and Logo Designs of 2019</title>
+      <link>http://example.org/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</link>
+      <pubDate>Tue, 24 Dec 2019 13:40:00 +0600</pubDate>
+      
+      <guid>http://example.org/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+    </item>
+    
+    <item>
+      <title>Design Inspiration: The Best Projects From November</title>
+      <link>http://example.org/blog/design-inspiration-the-best-projects-from-november/</link>
+      <pubDate>Tue, 24 Dec 2019 13:36:06 +0600</pubDate>
+      
+      <guid>http://example.org/blog/design-inspiration-the-best-projects-from-november/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+    </item>
+    
+    <item>
+      <title>Pt Chooses Classic Blue for Its Colour of the Year 2020</title>
+      <link>http://example.org/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</link>
+      <pubDate>Tue, 24 Dec 2019 13:32:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+    </item>
+    
+    <item>
+      <title>The 10 Biggest Product Stories of 2019</title>
+      <link>http://example.org/blog/the-10-biggest-product-stories-of-2019/</link>
+      <pubDate>Tue, 24 Dec 2019 12:58:17 +0600</pubDate>
+      
+      <guid>http://example.org/blog/the-10-biggest-product-stories-of-2019/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+    </item>
+    
+  </channel>
+</rss>
