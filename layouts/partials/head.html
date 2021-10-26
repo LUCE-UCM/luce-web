@@ -21,8 +21,8 @@
     <link href="{{ $style.Permalink }}" rel="stylesheet" />
 
     {{ "<!-- Luce Style -->" | safeHTML }}
-    {{ $bootstrap := resources.Get "css/luce-web.css" | minify }}
-    <link rel="stylesheet" href="{{ $bootstrap.Permalink }}" />
+    {{ $luce := resources.Get "css/luce-web.css" | fingerprint }}
+    <link rel="stylesheet" href="{{ $luce.Permalink }}" />
   
     <!--Favicon-->
     <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />
