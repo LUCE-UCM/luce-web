@@ -1,0 +1,35 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-lg-4 col-md-6 footer-p">
+        <div class="site-footer-logo footer-p">
+          <a href="https://www.ucm.es/observatorio">
+          <img src="{{ "images/footer/observatorio.jpg" |absURL }}" alt="img-description1">
+          </a>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 footer-p">
+        <p>Este proyecto ha recibido financiación desde Proyectos del Observatorio del Estudiante (POE-UCM) sobre el Estudiantado de la UCM.</p>
+      </div>
+
+      <div class="col-lg-4 col-md-6 footer-p">
+        <div class="site-footer-logo footer-p">
+          <a href="https://www.ucm.es/">
+          <img src="{{ "images/footer/ucm.jpg" |absURL }}" alt="img-description1">
+          </a>
+        </div>
+      </div>
+
+      
+    </div>
+  </div>
+</footer>
+
+{{ $formhandler := resources.Get "js/formhandler.js" | minify }}
+<script src="{{ $formhandler.Permalink }}"></script>
+{{ $vendor := resources.Get "js/vendor.js" | minify }}
+<script src="{{ $vendor.Permalink }}"></script>
+{{ $script := resources.Get "js/script.js" | minify }}
+<script src="{{ $script.Permalink }}"></script>

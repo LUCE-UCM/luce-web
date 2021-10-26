@@ -1,0 +1,26 @@
+{{ with .Site.Data.description1 }}
+  {{ if .enable }}
+  <section class="description" id="description1">
+      <div class="container">
+          <div class="row">
+              <div class="col-12">
+                <div class="section-title">
+                  <h2>{{ .heading }}</h2>
+                </div>
+              </div>
+              <div class="col-lg-6 col-md-10 mx-auto footer-p">
+                <div class="description-img footer-p">
+                  <img src="{{ .img | absURL }}" alt="img-description1">
+                </div>
+                
+              </div>
+                <div class="col-lg-6 col-md-10">
+                  {{ range .text}}
+                    <p>{{ .p }}</p>
+                  {{end}}
+              </div>   
+          </div>
+      </div>
+  </section>
+  {{ end }}
+{{ end }}

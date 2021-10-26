@@ -1,0 +1,22 @@
+enable : true
+heading : "Paquetes de trabajo del proyecto"
+img: "images/descriptions/description3.webp"
+steps: 
+  - title: "PT1 - Investigación previa"
+    description: "Análisis de las actividades incluidas en la UCM e investigación de aplicación de sistemas basados en blockchain para el análisis de comportamientos de comunidades."
+
+  - title: "PT2 - Registro de Datos"
+    description: "Diseño y desarrollo de la herramienta LUCE-DAO basada en blockchain que almacenará el registro de participación de los estudiantes en las actividades propuestas dentro de la UCM."
+
+  - title: "PT3 - Análisis y visualización de datos"
+    description: "Diseño y desarrollo de la herramienta LUCE-Analysis para analizar, sintetizar y visualizar la información de participación de los estudiantes."
+
+  - title: "PT4 - Arquitectura web general"
+    description: "Diseño y desarrollo de una arquitectura web para unificar las herramientas de PT2 y PT3 y que permita incluir nuevos servicios en el futuro."
+
+  - title: "PT5 - Evaluación de las herramientas"
+    description: "Prueba en entornos reales de las herramientas propuestas y análisis de los resultados obtenidos."
+
+  - title: "PT6 - Diseminación y transferencia"
+    description: "Orientado a la difusión de los resultados, tanto científicos como tecnológicos."
+

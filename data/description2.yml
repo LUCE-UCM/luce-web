@@ -1,0 +1,7 @@
+enable : true
+heading : "Objetivos del proyecto LUCE"
+img: "images/descriptions/description2.jpg"
+text: 
+  - p: "El proyecto LUCE propone solucionar el problema del registro de actividades extracurriculares en la comunidad universitaria teniendo como principal objetivo la creación de una herramienta basada en blockchain con la que se pueda guardar la actividad de los estudiantes en la vida universitaria de forma transparente, segura y descentralizada."
+
+  - p: "Esta herramienta permitirá la posibilidad de observar y analizar los datos recogidos por la tecnología blockchain aportando también un método de visualización que posibilite examinar los datos de forma sencilla e identificar patrones de comportamiento en la participación."
