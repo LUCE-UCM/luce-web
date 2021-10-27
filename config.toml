@@ -13,7 +13,7 @@ summarylength = 25
     weight  = 1
   [[menu.nav]]
     name    = "Descripción"
-    url     = "#descripcion1"
+    url     = "#description1"
     weight  = 2
   [[menu.nav]]
     name    = "Aplicaciones"
@@ -21,20 +21,8 @@ summarylength = 25
     weight  = 3
   [[menu.nav]]
     name    = "Equipo"
-    url     = "#site-testimonial"
+    url     = "#team"
     weight  = 4
-  #[[menu.nav]]
-  #  name    = "Portfolio"
-  #  url     = "portfolio"
-  #  weight  = 3
-  #[[menu.nav]]
-  #  name    = "Blog"
-  #  url     = "blog"
-  #  weight  = 4
-  #[[menu.nav]]
-  #  name    = "Get in touch"
-  #  url     = "contact"
-  #  weight  = 5
 
 # Site Params
 [params]
@@ -75,7 +63,7 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/participation.jpg"
-    heading               = "Blockchain aplicado a la participación activa de estudiantes en los campus UCM."
+    heading               = "Blockchain aplicado a la participación activa de estudiantes en la UCM."
     tagline               = "LUCE"
     #primary_button        = "See Our Works"
     #primary_button_url    = "portfolio"
