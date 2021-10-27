@@ -31,12 +31,19 @@
 }
 
 .site-footer-logo a img{
-    width: 100%;
+    width: 60%;
     
 }
 
 .site-footer {
     background-color: #fff;
+    padding: 50px 0;
+}
+
+.site-footer p {
+    font-size: 16;
+    font-weight: 300;
+    text-align: center;
 }
 
 .footer-p {
