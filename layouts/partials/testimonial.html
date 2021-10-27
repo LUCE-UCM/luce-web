@@ -13,7 +13,27 @@
             </p>
           </div>
         </div>
-        {{ range .testimonial_item }}
+        {{ $team := .testimonial_item }}
+        {{ $members := (len $team) }}
+        {{ range $elem_index, $elem_val := $team }}
+        {{ if eq (add $elem_index 1) $members }}
+        <div class="col-lg-4 offset-lg-4 col-md-6">
+          <div class="site-testimonial-item">
+            <div class="site-testimonial-item-header">
+              <div class="thumb">
+                <img src="{{ .thumb | absURL }}" alt="user-thumb-one">
+              </div>
+              <div class="person">
+                <h5>{{ .name }}</h5>
+                <p>{{ .company_position }}</p>
+              </div>
+            </div>
+            <p class="site-testimonial-item-body">
+              {{ .quote }}
+            </p>
+          </div>
+        </div>
+        {{ else }}
         <div class="col-lg-4 col-md-6">
           <div class="site-testimonial-item">
             <div class="site-testimonial-item-header">
@@ -30,6 +50,7 @@
             </p>
           </div>
         </div>
+        {{ end }}
         {{ end }}
       </div>
     </div>
