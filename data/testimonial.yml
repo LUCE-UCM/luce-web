@@ -32,6 +32,12 @@ testimonial_item :
     quote : > 
             Aportará su sólida experiencia para realizar un análisis sociológico de la participación en actividades que se registren en las herramietnas de LUCE.
 
+  - thumb : "images/team/maguirre.jpg"
+    name  : "Miguel Aguirre Juarez"
+    company_position: "Est., F. de Matemáticas"
+    quote : > 
+            Ayudará en el diseño y desarrollo de la herramienta LUCE-Analysis, aplicando diferentes técnicas de análisis de datos y visualización de los mismos.
+
   - thumb : "images/team/l-zardian.jpg"
     name  : "Lourdes Zardaín Alvaré"
     company_position: "PAS, F. de Informática"

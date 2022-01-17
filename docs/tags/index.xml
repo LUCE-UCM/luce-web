@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on LUCE | UCM</title>
-    <link>https://jljorro.github.io/luce-web/tags/</link>
+    <link>https://luce-ucm.github.io/luce-web/tags/</link>
     <description>Recent content in Tags on LUCE | UCM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-Es</language><atom:link href="https://jljorro.github.io/luce-web/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-Es</language><atom:link href="https://luce-ucm.github.io/luce-web/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
